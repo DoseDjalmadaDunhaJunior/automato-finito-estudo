@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/automato_finito.dir/main.cpp.o CMakeFiles/automato_finito.dir/Finito.cpp.o  -o automato_finito 

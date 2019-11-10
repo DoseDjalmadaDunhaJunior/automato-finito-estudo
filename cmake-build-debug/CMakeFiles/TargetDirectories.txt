@@ -1,0 +1,3 @@
+/home/djalma/Desktop/sexto_semestre/Compiladores/estudo/automato_finito/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/djalma/Desktop/sexto_semestre/Compiladores/estudo/automato_finito/cmake-build-debug/CMakeFiles/automato_finito.dir
+/home/djalma/Desktop/sexto_semestre/Compiladores/estudo/automato_finito/cmake-build-debug/CMakeFiles/edit_cache.dir

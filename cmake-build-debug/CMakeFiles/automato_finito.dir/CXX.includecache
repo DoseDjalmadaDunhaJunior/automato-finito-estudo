@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/djalma/Desktop/sexto_semestre/Compiladores/estudo/automato_finito/Finito.h
+iostream
+-
+
+/home/djalma/Desktop/sexto_semestre/Compiladores/estudo/automato_finito/main.cpp
+Finito.h
+/home/djalma/Desktop/sexto_semestre/Compiladores/estudo/automato_finito/Finito.h
+
